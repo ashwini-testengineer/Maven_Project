@@ -1,0 +1,10 @@
+<suite name="SuiteName">
+    <test name="TestName">
+        <classes>
+            <class name="packageTestNG.TestNGKeyWords"/>
+            <class name="packageTestNG.TestNGAnnotations"/>
+            <class name="packageTestNG.TestNgKeywords2"/>
+            <class name="packageTestNG.MethodsStudy"/>
+        </classes>
+    </test>
+</suite>

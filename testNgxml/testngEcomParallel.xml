@@ -1,0 +1,20 @@
+<suite name="Suite2" parallel="tests">
+<test thread-count="5" name="AjioTest">
+    <classes>
+        <class name="EcomTest.AjioTest">
+        </class>
+    </classes>
+</test> <!-- Test -->
+<test thread-count="5" name="AmazonTest">
+    <classes>
+        <class name="EcomTest.AmazonTest">
+        </class>
+    </classes>
+</test> <!-- Test -->
+<test thread-count="5" name="FlipKartTest">
+    <classes>
+        <class name="EcomTest.FlipKartTest">
+        </class>
+    </classes>
+</test> <!-- Test -->
+</suite>
